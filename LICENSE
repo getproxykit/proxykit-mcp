@@ -1,0 +1,14 @@
+ProxyKit — Proprietary. All Rights Reserved.
+
+Copyright © 2026 Seyed Ahmad Sarollahi.
+
+This repository contains documentation and Model Context Protocol registry
+metadata for `proxykit-mcp`, a component of ProxyKit. ProxyKit is NOT open
+source. The `proxykit-mcp` binary and the ProxyKit engine are distributed under
+the ProxyKit license: https://proxykit.net/terms#license
+
+No right to use, copy, modify, or redistribute the ProxyKit software is granted
+by access to this repository. The documentation herein is provided so that
+integrators can configure ProxyKit's MCP server with their own MCP clients.
+
+Licensing inquiries: ahmad.sarollahi@gmail.com
