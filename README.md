@@ -160,6 +160,11 @@ opt-in via `PROXYKIT_MCP_TIER`.
 
 ## License
 
-The `proxykit-mcp` binary is part of ProxyKit, proprietary software © 2026 Seyed
-Ahmad Sarollahi. See https://proxykit.net/terms#license. This repository's
-documentation is provided for integration reference.
+**This repository** — the docs, `Dockerfile`, and registry metadata — is MIT
+licensed (see [LICENSE](./LICENSE)); reuse it freely.
+
+**ProxyKit itself** — the `proxykit-mcp` binary and the engine it drives — is
+proprietary software © 2026 Seyed Ahmad Sarollahi, licensed under
+https://proxykit.net/terms#license. Nothing in this repository grants any right
+to the ProxyKit software; the binary is downloaded from the release server at
+build time under its own terms.

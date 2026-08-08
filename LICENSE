@@ -1,14 +1,21 @@
-ProxyKit — Proprietary. All Rights Reserved.
+MIT License
 
-Copyright © 2026 Seyed Ahmad Sarollahi.
+Copyright (c) 2026 Seyed Ahmad Sarollahi
 
-This repository contains documentation and Model Context Protocol registry
-metadata for `proxykit-mcp`, a component of ProxyKit. ProxyKit is NOT open
-source. The `proxykit-mcp` binary and the ProxyKit engine are distributed under
-the ProxyKit license: https://proxykit.net/terms#license
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-No right to use, copy, modify, or redistribute the ProxyKit software is granted
-by access to this repository. The documentation herein is provided so that
-integrators can configure ProxyKit's MCP server with their own MCP clients.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Licensing inquiries: ahmad.sarollahi@gmail.com
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
