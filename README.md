@@ -1,4 +1,4 @@
-# proxykit-mcp
+# proxykit-mcp [![ProxyKit-mcp MCP server – quality and maintenance score on Glama](https://glama.ai/mcp/servers/getproxykit/proxykit-mcp/badges/score.svg)](https://glama.ai/mcp/servers/getproxykit/proxykit-mcp)
 
 **Model Context Protocol server for [ProxyKit](https://proxykit.net) — drive a local HTTP(S) debugging proxy from Claude, Cursor, and any MCP host.**
 
