@@ -11,10 +11,10 @@
 
 FROM debian:stable-slim
 
-ARG PROXYKIT_VERSION=1.0.1
+ARG PROXYKIT_VERSION=1.2.0
 ARG TARGET=linux-amd64
 # sha256 of proxykit-cli-${PROXYKIT_VERSION}-${TARGET}.tar.gz (published .sha256 sidecar)
-ARG ARCHIVE_SHA256=a1c2a7d7b1f455642e0a372e02d9a064b883ddc6020046ac9c8a9e2c058e8d06
+ARG ARCHIVE_SHA256=2b5a8dd602ab4961842110c12779d639a9429be53b56e53c14019bd6263f5135
 
 RUN apt-get update \
     && apt-get install -y --no-install-recommends curl ca-certificates \
